@@ -12,9 +12,10 @@ Live Site: [https://tinuola.github.io/fm_qr-code-component/](https://tinuola.git
 
 ### Retrospective
 
-- `Newbie` ranked Frontend Mentor challenges are fairly simple or straight-forward--usually! Since coding a few of them, I've decided to use the remaining for speed challenges
+- Used a stronger gray for the component copy; the original `light-gray` was too low contrast for accessibility
+- `Newbie` ranked Frontend Mentor challenges are fairly simple or straight-forward--usually! Since coding over a dozen of them, I've decided to use the remaining (and future ones) for speed challenges
 - Estimate: 1 hour
-- Actual completion: 35 minutes
+- Actual completion: 35 minutes _(including project setup)_
 
 ### Enhancement(s)
 

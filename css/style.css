@@ -1,6 +1,7 @@
 :root {
   --dark-blue: hsl(218, 44%, 22%);
   --gray-blue: hsl(220, 15%, 55%);
+  --gray: hsl(220, 14%, 41%);
   --light-gray: hsl(212, 45%, 89%);
   --white: hsl(0, 0%, 100%);
   --primary-font: 'Outfit', sans-serif;
@@ -57,7 +58,7 @@ div h2 {
 
 div p {
   line-height: 1.1875rem;
-  color: var(--gray-blue);
+  color: var(--gray);
   letter-spacing: 0.75px;
 }
 
