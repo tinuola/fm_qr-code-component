@@ -1,4 +1,9 @@
 :root {
+  --dark-blue: hsl(218, 44%, 22%);
+  --gray-blue: hsl(220, 15%, 55%);
+  --light-gray: hsl(212, 45%, 89%);
+  --white: hsl(0, 0%, 100%);
+  --primary-font: 'Outfit', sans-serif;
 }
 
 /* Hidden class for accessibility */
@@ -15,6 +20,49 @@
 }
 
 body {
+  background-color: var(--light-gray);
+  font-family: var(--primary-font);
+  font-size: 0.9375rem;
+  font-weight: 400;
+  display: grid;
+  grid-template-rows: 1fr auto;
+}
+
+main {
+  background-color: var(--white);
+  max-width: 320px;
+  height: 497px;
+  margin: 0 auto;
+  padding: 1rem 1rem 2.5rem 1rem;
+  border-radius: 1.25rem;
+  align-self: center;
+}
+
+.container img {
+  border-radius: 0.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.container div {
+  text-align: center;
+}
+
+div h2 {
+  font-size: 1.375rem;
+  font-weight: 700;
+  line-height: 1.75rem;
+  color: var(--dark-blue);
+  margin-bottom: 1rem;
+}
+
+div p {
+  line-height: 1.1875rem;
+  color: var(--gray-blue);
+  letter-spacing: 0.75px;
+}
+
+.fm-byline-row {
+  margin-bottom: 1.25rem;
 }
 
 .fm-byline {
@@ -26,5 +74,5 @@ body {
 
 .fm-byline,
 .fm-byline a {
-  color: hsl(228, 45%, 44%);
+  color: var(--dark-blue);
 }

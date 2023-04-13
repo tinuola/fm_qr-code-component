@@ -1,6 +1,6 @@
-# Frontend Mentor: Challenge Name
+# Frontend Mentor: QR Code Component
 
-Solution to the _[]()_ challenge on Frontend Mentor.
+Solution to the _[QR Code Component](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)_ challenge on Frontend Mentor.
 
 ### Challenge
 
@@ -10,7 +10,7 @@ Solution to the _[]()_ challenge on Frontend Mentor.
 
 ### Solution
 
-Live Site: []()
+Live Site: [https://tinuola.github.io/fm_qr-code-component/](https://tinuola.github.io/fm_qr-code-component/)
 
 ### Retrospective
 
