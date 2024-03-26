@@ -1,4 +1,4 @@
-# Frontend Mentor: QR Code Component
+## Frontend Mentor: QR Code Component
 
 Solution to the _[QR Code Component](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)_ challenge on Frontend Mentor.
 
@@ -8,19 +8,18 @@ Solution to the _[QR Code Component](https://www.frontendmentor.io/challenges/qr
 
 ### Solution
 
-Live Site: [https://tinuola.github.io/fm_qr-code-component/](https://tinuola.github.io/fm_qr-code-component/)
+Live Site: [tinuola.github.io/fm_qr-code-component/](https://tinuola.github.io/fm_qr-code-component/)
 
 ### Retrospective
 
 - Used a stronger gray for the component copy; the original `light-gray` was too low contrast for accessibility
-- `Newbie` ranked Frontend Mentor challenges are fairly simple or straight-forward--usually! Since coding over a dozen of them, I've decided to use the remaining (and future ones) for speed challenges
+- `Newbie` ranked Frontend Mentor challenges are simple or straight-forward--usually! Since coding at leaset a dozen of them, I've decided to use the remaining (and future ones) for speed challenges
 - Estimate: 1 hour
 - Actual completion: 35 minutes _(including project setup)_
 
 ### Enhancement(s)
 
 - None planned
-- Downloaded qr-code svg from Figma comp for potential animation practice
 
 ### Tools & Resources
 
